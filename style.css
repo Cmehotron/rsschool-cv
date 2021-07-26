@@ -12,3 +12,12 @@ body {
   h1 {
       text-align: center;
   }
+  
+  .avatar {
+      vertical-align: middle;
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      display: block;
+      margin: 0 auto;
+  }
