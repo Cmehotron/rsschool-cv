@@ -1,0 +1,14 @@
+body {
+    font-size: 14px;
+    font-family: Arial;
+    padding: 20px;
+  }
+  
+  p {
+    margin: 20px 0;
+    line-height: 22px;
+  }
+  
+  h1 {
+      text-align: center;
+  }
